@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "DQm0aKMZXufXM47c1OA33OcOVlK3LSuqLsK8G7OZcbco8ISykJGD75/QHwuKEFWSttgFB8dxIbzlqMdzDdQX4g==",
+  "dgSpecHash": "gcKXDgYQJkCq9PFI0B6+HKb/lxJDkjsdb+bUQGgyS5Znre23fpcXrZS0gMUvXDX6uFATaYEF/YyOx/0AmbHAig==",
   "success": true,
   "projectFilePath": "C:\\Users\\SH4-L\\Documents\\workspace\\net core\\ForgeSample\\ForgeSample.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\SH4-L\\.nuget\\packages\\autodesk.forge\\1.9.0\\autodesk.forge.1.9.0.nupkg.sha512",
     "C:\\Users\\SH4-L\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\SH4-L\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SH4-L\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\SH4-L\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
     "C:\\Users\\SH4-L\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\SH4-L\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\SH4-L\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
